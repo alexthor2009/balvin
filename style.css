@@ -98,3 +98,11 @@ a {
     width: 70px;
     margin: 8px auto; 
 }
+
+.album{
+    font-size:40px;
+}
+
+#contact iframe{
+    width: 100%;
+}
